@@ -33,7 +33,7 @@
 
 - The newly cloned disk fails to boot, displaying [this blue screen error](blue_screen_standalone_new_ssd.jpg).
 
-- The BIOS lacks the `Boot Management` option for the new disk, which might be the reason for the boot failure. I'm unsure how to add it or why it is missing, even though I followed the complete cloning process.
+- The BIOS lacks the `Boot Management`[the second row in this pic](two_ssds_connected.PNG) option for the new disk, which might be the reason for the boot failure. I'm unsure how to add it or why it is missing, even though I followed the complete cloning process.
 
 ## Seeking Your Help 🙇‍🙏
 
