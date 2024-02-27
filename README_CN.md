@@ -18,7 +18,7 @@
 6. **启动尝试**：克隆完成并自动关机后，我物理上移除了原2TB硬盘，此时只有4tb的ssd与电脑连接。尝试仅用4TB硬盘启动，3s后，遇到[此蓝屏错误](blue_screen_standalone_new_ssd.jpg)，无法成功启动。
 7. **自行问题诊断**：通过BIOS检查，点击boot sequence，发现已经将新硬盘被设置为启动序列首位，但是缺少`Boot Management`程序。将原硬盘重新安装后，系统能够正常启动，然后我在bios中可以看到boot management在所有的sequence中的第一个。当两块硬盘都链接在电脑上时候，无论在bios boot sequence里面我如何排列两块盘的顺序，亦或是我即使将老2tb盘删除掉，只要老盘还连接着，都是从老盘进入系统，这也可以从File Explorer下This PC下查看，老盘C盘有一个Windows的LOGO，代表这是boot os的盘。
 
-## Notes/笔记：
+## Notes/更新笔记：
 
 1. 已经于2024年2月26日晚上更新了最新的BIOS版本，由alienware电脑自动执行。
 2. [照片1，在msinfo32命令，在cmd下查看](msinfo32_ssd1.jpg)
