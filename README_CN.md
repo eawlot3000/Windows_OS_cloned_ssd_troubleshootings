@@ -6,7 +6,7 @@
 - Windows版本：Windows 11 Pro, 版本 22H2, OS构建版本 22621.3007
 - 硬盘信息：（已经向dell官方人员证实都可以在此电脑上兼容）
   - 原始硬盘 2tb：[adata xpg 2tb ssds](https://www.adata.com/us/xpg/830)
-  - 新硬盘 4tb：[fanxiang S880 4TB](https://www.amazon.ca/fanxiang-S880-Internal-Solid-State/dp/B0C6DL33T5
+  - 新硬盘 4tb：[fanxiang S880 4TB](https://www.amazon.ca/fanxiang-S880-Internal-Solid-State/dp/B0C6DL33T5)
 
 ## 操作详细过程【此电脑的日常使用都没有任何问题，我只想请教现在的克隆问题】
 
